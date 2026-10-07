@@ -36,3 +36,4 @@ store-bot/
 ├── .gitignore                # Rules for excluding secrets and local data
 ├── requirements.txt          # Python dependencies
 └── README.md                 # Project documentation
+telegram_bot_link=@ethiomullerboutique_store_bot
