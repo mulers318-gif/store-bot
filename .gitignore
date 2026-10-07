@@ -1,0 +1,13 @@
+# Exclude environment secrets
+.env
+
+# Exclude local database (prevents uploading customer data)
+data/shop.db
+
+# Exclude Python cache
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
